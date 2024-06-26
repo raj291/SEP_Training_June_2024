@@ -152,3 +152,16 @@ SELECT
 FROM Suppliers s
 
 ORDER BY City, Type, Name;
+
+CREATE FUNCTION GETTOTAL(@price money, @discount real , @quantity int)
+RETURNS money
+AS
+BEGIN
+DECLARE @revenue money
+SET @revenue = @price * (1- @discount) * @quantity
+RETURN @revenue
+END
+
+SELECT UnitPrice, Discount , Quantity ,dbo.GETTOTAL(UnitPrice, Discount , Quantity ) AS Revenue 
+FROM [Order Details]
+
