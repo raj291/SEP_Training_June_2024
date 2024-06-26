@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/bin/Debug/net8.0/Copyanarray
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/bin/Debug/net8.0/Copyanarray.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/bin/Debug/net8.0/Copyanarray.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/bin/Debug/net8.0/Copyanarray.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/bin/Debug/net8.0/Copyanarray.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/Copyanarray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/Copyanarray.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/Copyanarray.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/Copyanarray.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/Copyanarray.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/refint/Copyanarray.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/Copyanarray.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/Copyanarray.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp2/Copyanarray/obj/Debug/net8.0/ref/Copyanarray.dll

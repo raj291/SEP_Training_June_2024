@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{FA05FCD8-35E6-4325-A871-0FBBE4279C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copyanarray", "Copyanarray\Copyanarray.csproj", "{647CD55C-5AD8-4BC9-8B13-70CDC775FD4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todolist", "todolist\todolist.csproj", "{0C2FC9F7-AAF7-48B6-B0E9-2DC058DD784B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA05FCD8-35E6-4325-A871-0FBBE4279C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA05FCD8-35E6-4325-A871-0FBBE4279C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA05FCD8-35E6-4325-A871-0FBBE4279C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA05FCD8-35E6-4325-A871-0FBBE4279C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647CD55C-5AD8-4BC9-8B13-70CDC775FD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647CD55C-5AD8-4BC9-8B13-70CDC775FD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647CD55C-5AD8-4BC9-8B13-70CDC775FD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647CD55C-5AD8-4BC9-8B13-70CDC775FD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2FC9F7-AAF7-48B6-B0E9-2DC058DD784B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2FC9F7-AAF7-48B6-B0E9-2DC058DD784B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2FC9F7-AAF7-48B6-B0E9-2DC058DD784B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2FC9F7-AAF7-48B6-B0E9-2DC058DD784B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

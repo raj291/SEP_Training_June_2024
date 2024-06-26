@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/bin/Debug/net8.0/todolist
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/bin/Debug/net8.0/todolist.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/bin/Debug/net8.0/todolist.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/bin/Debug/net8.0/todolist.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/bin/Debug/net8.0/todolist.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/todolist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/todolist.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/todolist.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/todolist.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/todolist.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/refint/todolist.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/todolist.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/todolist.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp2/todolist/obj/Debug/net8.0/ref/todolist.dll
