@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/bin/Debug/net8.0/hackername
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/bin/Debug/net8.0/hackername.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/bin/Debug/net8.0/hackername.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/bin/Debug/net8.0/hackername.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/bin/Debug/net8.0/hackername.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/hackername.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/hackername.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/hackername.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/hackername.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/hackername.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/refint/hackername.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/hackername.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/hackername.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/hackername/obj/Debug/net8.0/ref/hackername.dll

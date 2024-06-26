@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/bin/Debug/net8.0/greetingsofthe day
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/bin/Debug/net8.0/greetingsofthe day.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/bin/Debug/net8.0/greetingsofthe day.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/bin/Debug/net8.0/greetingsofthe day.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/bin/Debug/net8.0/greetingsofthe day.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/greetingsofthe day.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/greetingsofthe day.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/greetingsofthe day.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/greetingsofthe day.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/greetingsofthe day.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/refint/greetingsofthe day.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/greetingsofthe day.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/greetingsofthe day.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/greetingsofthe day/obj/Debug/net8.0/ref/greetingsofthe day.dll

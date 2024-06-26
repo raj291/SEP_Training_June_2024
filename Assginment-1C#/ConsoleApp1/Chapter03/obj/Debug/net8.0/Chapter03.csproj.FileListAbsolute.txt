@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/bin/Debug/net8.0/Chapter03
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/bin/Debug/net8.0/Chapter03.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/bin/Debug/net8.0/Chapter03.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/bin/Debug/net8.0/Chapter03.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/bin/Debug/net8.0/Chapter03.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/Chapter03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/Chapter03.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/Chapter03.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/Chapter03.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/Chapter03.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/refint/Chapter03.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/Chapter03.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/Chapter03.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/Chapter03/obj/Debug/net8.0/ref/Chapter03.dll

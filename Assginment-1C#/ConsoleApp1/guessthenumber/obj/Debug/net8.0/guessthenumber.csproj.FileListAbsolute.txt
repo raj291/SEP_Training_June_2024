@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/bin/Debug/net8.0/guessthenumber
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/bin/Debug/net8.0/guessthenumber.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/bin/Debug/net8.0/guessthenumber.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/bin/Debug/net8.0/guessthenumber.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/bin/Debug/net8.0/guessthenumber.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/guessthenumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/guessthenumber.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/guessthenumber.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/guessthenumber.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/guessthenumber.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/refint/guessthenumber.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/guessthenumber.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/guessthenumber.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/guessthenumber/obj/Debug/net8.0/ref/guessthenumber.dll

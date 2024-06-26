@@ -1,0 +1,29 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/rajmahadik/Documents/Crash_Course/SEP_Assignment/Assginment - 1 C#/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll

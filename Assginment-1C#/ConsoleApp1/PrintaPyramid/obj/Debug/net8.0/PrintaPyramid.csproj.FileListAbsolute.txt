@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/bin/Debug/net8.0/PrintaPyramid
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/bin/Debug/net8.0/PrintaPyramid.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/bin/Debug/net8.0/PrintaPyramid.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/bin/Debug/net8.0/PrintaPyramid.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/bin/Debug/net8.0/PrintaPyramid.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/PrintaPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/PrintaPyramid.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/PrintaPyramid.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/PrintaPyramid.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/PrintaPyramid.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/refint/PrintaPyramid.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/PrintaPyramid.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/PrintaPyramid.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/PrintaPyramid/obj/Debug/net8.0/ref/PrintaPyramid.dll

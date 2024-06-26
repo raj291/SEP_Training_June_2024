@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/bin/Debug/net8.0/convertcenturies
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/bin/Debug/net8.0/convertcenturies.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/bin/Debug/net8.0/convertcenturies.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/bin/Debug/net8.0/convertcenturies.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/bin/Debug/net8.0/convertcenturies.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/convertcenturies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/convertcenturies.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/convertcenturies.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/convertcenturies.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/convertcenturies.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/refint/convertcenturies.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/convertcenturies.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/convertcenturies.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/convertcenturies/obj/Debug/net8.0/ref/convertcenturies.dll

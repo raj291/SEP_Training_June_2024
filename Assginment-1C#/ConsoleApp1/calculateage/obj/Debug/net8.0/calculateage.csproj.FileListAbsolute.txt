@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/bin/Debug/net8.0/calculateage
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/bin/Debug/net8.0/calculateage.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/bin/Debug/net8.0/calculateage.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/bin/Debug/net8.0/calculateage.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/bin/Debug/net8.0/calculateage.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/calculateage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/calculateage.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/calculateage.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/calculateage.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/calculateage.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/refint/calculateage.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/calculateage.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/calculateage.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/calculateage/obj/Debug/net8.0/ref/calculateage.dll

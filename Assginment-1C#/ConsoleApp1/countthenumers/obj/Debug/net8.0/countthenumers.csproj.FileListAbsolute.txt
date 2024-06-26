@@ -1,0 +1,14 @@
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/bin/Debug/net8.0/countthenumers
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/bin/Debug/net8.0/countthenumers.deps.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/bin/Debug/net8.0/countthenumers.runtimeconfig.json
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/bin/Debug/net8.0/countthenumers.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/bin/Debug/net8.0/countthenumers.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/countthenumers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/countthenumers.AssemblyInfoInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/countthenumers.AssemblyInfo.cs
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/countthenumers.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/countthenumers.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/refint/countthenumers.dll
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/countthenumers.pdb
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/countthenumers.genruntimeconfig.cache
+/Users/rajmahadik/RiderProjects/ConsoleApp1/countthenumers/obj/Debug/net8.0/ref/countthenumers.dll
