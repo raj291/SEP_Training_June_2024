@@ -1,0 +1,57 @@
+Answer for the Assignment 3 C#
+Q1.
+There are total of 3 main types of Access Modifiers 
+Public , Private and Protected 
+Public : It means that any member of the Program are accessible to the whole class
+Private: Only accessible to that class in the Program
+Projected : Only accessible to that class and all the child classes derived from the base protected class.
+There are other access modifiers which are internal , Protected internal and Private.
+Q2. 
+Static : it means members belong to itself rather than an instance.it is assigned before run time and can be changed as well.
+Const : it is used to declare compile time const fields. The value is fixed during compile time and cannot be changed after.
+Readonly : readonly fields are initialized during runtime. They are static if they can be initialized at the point of declaration or in a static constructor.
+Q3. 
+It is a method which as the same name as the class but does not return. It is mainly used to create instance/objects of a class to initialize class members. By default C# creates a constructor unless explicitly created by the user which is called default constructor.
+Q4.
+Partial keyword allows the members of a class divide into multiple files. This used when working with large projects when 
+Two or more developer are working on the same class or functionality. This does not mean that the methods are overloaded. Just that one class can be divided into multiple files.
+Q5.
+Tuple is a data structure in C# which consist of multiple parts.This allows us to represent data in an easier way.
+Q6.
+Record keyword is used define a reference type. It is mainly worked with value based equality and immutability.It is more to be used as a value than an object.
+Q7.
+Method Overload means having multiple methods in a class with the same method name with different input and output parameters. 
+Method Overriding means using a method from a base class and overriding its properties in the derived class. Allowing to change its result. This can be implemented when the base class method has a virtual keyword allowing the derived class method to override with Override keyword.
+Q8.
+Field and Property are class members to hold data. Fields can be directly declared inside a class. However they are not directly exposed outside the class and need a method to access or property. 
+Properties is much more flexible for reading and writing the data. It provides us with getter and setter access methods which makes it more flexible. It encapsulates the state of the object. 
+Q9.
+We can make a parameter optional with the help of params keyword which allows the method run without taking any parameters. However the params keyword should always be in the last since it wont follow the rules of itself.Another option would be to implement method overloading.
+Q10.
+Interface only declares the members and does not provide any implementation. Abstract class provides implementation for non abstract method but should contain at least one abstract method which does not have any implementation. Abstract class contain both abstract and non abstract method. While interface only contains the abstract methods.
+Q11.
+Interface is by default having public accessibility. It cannot have private or protected access modifiers.All the members within the interface should also have public access modifiers. 
+Q12.
+True. This can be achieved by using method overriding.
+Q13.
+True. Override is a keyword used for Method Overriding in derived class.
+Q14.
+True. New keyword can be use to hide the bass class method and provide different functionality. 
+Q15.
+False. Abstract methods should only be implemented in Abstract class. Abstract class can have non abstract method.
+Q16.
+True. Non abstract method can be used in abstract class.
+Q17
+True. Derived class can override Methods which are having keyword virtual in the base class.
+Q18. 
+True Derived class can override methods which are abstract as there is not implantation of Abstract method.
+Q19.
+False. You can only override method which are abstract or virtual.
+Q20.
+False. If a class implements a members of an interface it should provide implementation for all the members inside the interface.
+Q21.
+True. You can have different members in a class which are not implemented from interface but should contain all members which are in the interface.
+Q22.
+False. There can be only one Parent/Base class. It can have multiple child classes derived from the base class. You can have one base class as Members. Employees can be a child class of Members and Manager can be a Child Class of Employees.
+Q23.
+True. A class can implement more than one interface but should implement all the members of all the interface.
