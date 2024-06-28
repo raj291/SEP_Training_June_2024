@@ -1,0 +1,29 @@
+Q1. 
+So the Problems which Generic Collection Address are 
+Type Safety : You are not gonna be concerned which Type is been using as you can specify the type unlike Non Generic which take only Object type.
+No unboxing/boxing : Since object types has to perform boxing and unboxing to change its type which is a very performance heavy task.Generic does not require it.
+Flexibility : Generic provides better flexibility as you dont have to write the same code multiple times for different types.
+Maintainability: This allows us to reduced the duplication of code and update code easily.
+Q2.
+Generic List 
+<Access Modifier> List<T> name = new List<T>();
+Non Generic List
+<Access Modifier> List<String> name = new List<T>();
+Q3.
+The Dictionary class has two Generic Type Parameters TKey : keys in dict Tvalue : Values in dict
+Q4.
+False. They do not need to match. They are set when creating an instance of a generic class. For Example is the Dictionary Generic type we can use Tkeys as int and Tvalues as String.
+Q5.
+Add is the Pre defined method to add items into a list. Add();
+Q6.
+The Two method which can remove item from a list are Remove() and RemoveAt(). 
+Remove() allows to remove the value of the item in the list. RemoveAt allows to remove the items of a specific index.
+Q7.
+You can indicate a class is generic by Doing like this 
+<Access Modifier> Class Classname<T> where <T> indicates the Generic type parameter.
+Q8.
+False, Generic class can have multiple generic parameters <Access Modifier> Class Classname<T,S>
+Q9.
+True you can specify the type parameter type of a Generic class and have constrain limit
+Q10.
+True. Generic type allows you to use Method type as a parameter.
