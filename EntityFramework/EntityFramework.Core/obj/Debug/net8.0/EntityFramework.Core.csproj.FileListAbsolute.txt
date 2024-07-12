@@ -1,0 +1,14 @@
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.deps.json
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.runtimeconfig.json
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.dll
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.pdb
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.csproj.AssemblyReference.cache
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.AssemblyInfoInputs.cache
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.AssemblyInfo.cs
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.dll
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/refint/EntityFramework.Core.dll
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.pdb
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.genruntimeconfig.cache
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/ref/EntityFramework.Core.dll

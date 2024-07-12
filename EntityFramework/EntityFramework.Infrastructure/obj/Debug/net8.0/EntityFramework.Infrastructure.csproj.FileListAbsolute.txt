@@ -1,0 +1,17 @@
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.deps.json
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.runtimeconfig.json
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.dll
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.pdb
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Core.dll
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Core.pdb
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.csproj.AssemblyReference.cache
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.AssemblyInfoInputs.cache
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.AssemblyInfo.cs
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFr.C7757ED8.Up2Date
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.dll
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/refint/EntityFramework.Infrastructure.dll
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.pdb
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.genruntimeconfig.cache
+/Users/rajmahadik/Documents/Antra/Code/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/ref/EntityFramework.Infrastructure.dll
